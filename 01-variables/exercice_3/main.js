@@ -1,2 +1,4 @@
 // Exercice 3
-// Écrivez votre code ici
+// Je cree une constante avec nom de la ville Kinshasa
+
+const nomVille = "Kinshasa";
