@@ -1,4 +1,5 @@
 // Exercice 3
-// Je cree une constante avec nom de la ville Kinshasa
+// Je cree une constante avec nomVille (nom de la ville) et je l'affecte la valeur "Kinshasa"
 
 const nomVille = "Kinshasa";
+console.log(nomVille);

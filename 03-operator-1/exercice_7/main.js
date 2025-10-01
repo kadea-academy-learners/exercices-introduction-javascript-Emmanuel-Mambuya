@@ -1,7 +1,7 @@
 // Exercice 7
-// Écrivez votre code ici
-let ageEnfant = 16;
+// L'age de membres de famille - Enfant, Mere, Pere, Grand-Pere et Oncle
+let ageEnfant = 15;
 let agePere = ageEnfant * 2;
 let ageMere = agePere - 5;
-let ageGrandPere = (ageMere*2) + ageEnfant/2;
+let ageGrandPere = (ageMere*2) + (ageEnfant/2);
 let ageOncle = agePere + 10;
