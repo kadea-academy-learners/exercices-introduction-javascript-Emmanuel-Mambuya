@@ -1,1 +1,1 @@
-//Ce programme affiche un message "Hello World".
+//Ce programme affiche un message Hello World - le commentaire dit Hello World
