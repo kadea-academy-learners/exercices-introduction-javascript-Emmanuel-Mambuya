@@ -5,15 +5,11 @@
 
 let a = 5;
 let b = 8;
-let resultat = a + b;
-
-console.log("La somme de a et b : " + somme);
-
-
-module.exports = {
-    a, 
-    b, 
-    somme,
-}
+// affichage du resultat
+console.log(a+b);
+// module.exports = {
+//     a, 
+//     b, 
+// };
 
 
